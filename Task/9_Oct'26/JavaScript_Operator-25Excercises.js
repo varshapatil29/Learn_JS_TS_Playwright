@@ -220,7 +220,8 @@ console.log("20" > "100");  // true
 console.log("20" > 100);    // false
 
 console.log([] == false);   // true
-console.log([] === false);  // false
+const emptyArray = [];
+console.log(emptyArray === false);  // false
 
 
 console.log("\n===== ALL 25 EXERCISES COMPLETED =====");

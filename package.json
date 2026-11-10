@@ -1,0 +1,24 @@
+{
+  "name": "learn_js_ts_playwright",
+  "version": "1.0.0",
+  "description": "![Learn JavaScript, TypeScript & Playwright: chapter by chapter, built for testers](assets/images/banner.png)",
+  "homepage": "https://github.com/varshapatil29/Learn_JS_TS_Playwright#readme",
+  "bugs": {
+    "url": "https://github.com/varshapatil29/Learn_JS_TS_Playwright/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varshapatil29/Learn_JS_TS_Playwright.git"
+  },
+  "license": "ISC",
+  "author": "varsha",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {}
+}
